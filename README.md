@@ -36,6 +36,12 @@ and research software quality metrics.
 
 **4. Testing**
 
+In this phase, different types of testing methods will be applied to ensure the research software quality and user acceptance. Unit testing of the individual code units, 
+will be followed by integration testing of the components, security and performance testing, as well as functional testing if the application meets the user expectations of 	
+diverse user groups. Throughout the development process, we will maintain a continuous feedback loop involving regular meetings with users to discuss progress and gather 	
+insights to adapt features according to real-world usage scenarios. Finally, we will also validate the tool’s compliance with FAIR4RS principles and community standards, 
+as predefined in SMP. 
+
 **5. Deployment**
 
 **6. Maintenance**
