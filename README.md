@@ -42,6 +42,8 @@ diverse user groups. Throughout the development process, we will maintain a cont
 insights to adapt features according to real-world usage scenarios. Finally, we will also validate the tool’s compliance with FAIR4RS principles and community standards, 
 as predefined in SMP. 
 
-**5. Deployment**
+**5. Deployment and Maintenance**
 
-**6. Maintenance**
+We will share the software tool in a repository such as GitHub and/or Zenodo and register in a registry, such as bio.tools, BioContainers and EOSC Marketplace or Software 
+Heritage to ensure interoperability with existing services and platforms. 
+
