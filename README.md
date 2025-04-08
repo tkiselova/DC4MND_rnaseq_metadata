@@ -11,3 +11,14 @@ This repository contains the description and progress reports for FAIR-Compliant
   </span>
 </p>
 
+**1.Planning and Requirement Analysis**
+
+**2.System Design**
+
+**3.Implementation**
+
+**4.Testing**
+
+**5.Deployment**
+
+**6.Maintenance**
