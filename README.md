@@ -27,6 +27,13 @@ to be modular, scalable, and user-friendly for users with varying levels of tech
 
 **3. Implementation**
 
+Throughout the implementation, special attention is given to ensuring compliance with the FAIR principles for research software (FAIR4RS). The tool will incorporate these 
+principles by enabling findability through persistent identifiers and structured metadata; accessibility via standardized, open formats; interoperability through the use of 
+established ontologies such as EDAM and metadata formats like CodeMeta; and reusability through open licensing (MIT License) and comprehensive documentation. Additional 
+FAIR4RS-aligned practices will include the use of container technologies (e.g., Docker), version control systems (e.g., Git), and deposition in platforms such as GitHub and
+Zenodo, as well as tool registries including bio.tools and BioContainers. OpenEBench will be used to benchmark the tool and ensure its compliance with community standards 
+and research software quality metrics.
+
 **4. Testing**
 
 **5. Deployment**
