@@ -49,7 +49,7 @@ Heritage to ensure interoperability with existing services and platforms.
 
 **Funding**
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/e43183c4-3338-46af-8ecc-dec71c120584" width="10%">
+  <img src="https://github.com/user-attachments/assets/e43183c4-3338-46af-8ecc-dec71c120584" width="20%">
 </p>
 
 **Project:** Multidimensional mechanistic investigations of trans spinal direct current stimulation in motor neuron disease (DC4MND) **Project/agreement** No. ES RTD/2023/18
