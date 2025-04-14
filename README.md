@@ -47,3 +47,11 @@ as predefined in SMP.
 We will share the software tool in a repository such as GitHub and/or Zenodo and register in a registry, such as bio.tools, BioContainers and EOSC Marketplace or Software 
 Heritage to ensure interoperability with existing services and platforms. 
 
+**Funding**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e43183c4-3338-46af-8ecc-dec71c120584" width="50%">
+</p>
+
+**Project:** Multidimensional mechanistic investigations of trans spinal direct current stimulation in motor neuron disease (DC4MND) **Project/agreement** No. ES RTD/2023/18
+
+
