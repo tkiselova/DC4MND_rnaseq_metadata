@@ -1,6 +1,6 @@
 # Creating a FAIR-Compliant Metadata Framework for RNA Sequencing: A Case Study on Amyotrophic Lateral Sclerosis
 
-This repository contains the description and progress reports for FAIR-Compliant metadata framework for RNA sequencing software development
+This repository contains the description and progress reports for FAIR-Compliant metadata framework for RNA sequencing software development.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6c93af13-6b66-43a3-bdbb-5687dc207ae1" width="50%">
@@ -52,6 +52,7 @@ Heritage to ensure interoperability with existing services and platforms.
   <img src="https://github.com/user-attachments/assets/e43183c4-3338-46af-8ecc-dec71c120584" width="20%">
 </p>
 
-**Project:** Multidimensional mechanistic investigations of trans spinal direct current stimulation in motor neuron disease (DC4MND) **Project/agreement** No. ES RTD/2023/18
+**Project:** Multidimensional mechanistic investigations of trans spinal direct current stimulation in motor neuron disease (DC4MND) 
+**Project/agreement** No. ES RTD/2023/18
 
 
